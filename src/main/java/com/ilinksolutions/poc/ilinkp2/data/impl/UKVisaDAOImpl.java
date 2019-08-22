@@ -49,7 +49,7 @@ public class UKVisaDAOImpl implements UKVisaDAO
 		}
 		catch (NamingException e)
 		{
-			throw new RuntimeException("Could not look up datasource", e);
+			throw new RuntimeException("UKVisaDAOImpl: lookupDataSource: Could not look up datasource", e);
 		}
 	}
 
@@ -80,7 +80,7 @@ public class UKVisaDAOImpl implements UKVisaDAO
 			}
 			catch(Exception e)
 			{
-				throw new RuntimeException("Could not communicate with DB.");
+				throw new RuntimeException("UKVisaDAOImpl: initializeSchemaIfNeeded: Could not communicate with DB.");
 			}
 		}
 	}
@@ -126,7 +126,7 @@ public class UKVisaDAOImpl implements UKVisaDAO
 			}
 			catch(Exception e)
 			{
-				throw new RuntimeException("Could not communicate with DB.");
+				throw new RuntimeException("UKVisaDAOImpl: save: Could not communicate with DB.");
 			}
 		}
 	}
@@ -166,7 +166,7 @@ public class UKVisaDAOImpl implements UKVisaDAO
 			}
 			catch(Exception e)
 			{
-				throw new RuntimeException("Could not communicate with DB.");
+				throw new RuntimeException("UKVisaDAOImpl: list: Could not communicate with DB.");
 			}
 		}
 		return list;
