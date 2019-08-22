@@ -26,7 +26,7 @@ public class UKVisaDAOImpl implements UKVisaDAO
 	public UKVisaDAOImpl()
 	{
 		dataSource = lookupDataSource();
-		initializeSchemaIfNeeded();
+		//	initializeSchemaIfNeeded();
 	}
 
 	private DataSource lookupDataSource()
