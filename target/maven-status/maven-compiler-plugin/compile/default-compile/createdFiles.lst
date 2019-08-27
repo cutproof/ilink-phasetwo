@@ -1,6 +1,7 @@
-com\ilinksolutions\poc\ilinkp2\App.class
-com\ilinksolutions\poc\ilinkp2\data\UKVisaDAO.class
-com\ilinksolutions\poc\ilinkp2\wservices\MainServlet.class
-com\ilinksolutions\poc\ilinkp2\bservices\UKVisaService.class
-com\ilinksolutions\poc\ilinkp2\data\impl\UKVisaDAOImpl.class
-com\ilinksolutions\poc\ilinkp2\domains\UKVisaMessage.class
+com\ilinksolutions\p2\data\impl\UKVisaDAOImpl.class
+com\ilinksolutions\p2\bservices\UKVisaService.class
+com\ilinksolutions\p2\rservices\P2RestController.class
+com\ilinksolutions\p2\data\UKVisaDAO.class
+com\ilinksolutions\p2\domains\UKVisaMessage.class
+com\ilinksolutions\p2\P2Application.class
+com\ilinksolutions\p2\ServletInitializer.class

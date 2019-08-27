@@ -1,6 +1,7 @@
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\data\UKVisaDAO.java
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\App.java
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\data\impl\UKVisaDAOImpl.java
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\bservices\UKVisaService.java
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\wservices\MainServlet.java
-C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\poc\ilinkp2\domains\UKVisaMessage.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\bservices\UKVisaService.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\ServletInitializer.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\data\impl\UKVisaDAOImpl.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\data\UKVisaDAO.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\domains\UKVisaMessage.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\rservices\P2RestController.java
+C:\iLink\projects\POC\ilink-phasetwo\src\main\java\com\ilinksolutions\p2\P2Application.java
